@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my github profile.
+
+![ASCII Toon Link](https://d.facdn.net/art/thelonelywolf/1488278723/1342350392.thelonelywolf_ascii-link_artwork_2__the_minish_cap_.gif)
 
 <!--
 **EJGamer21/EJGamer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
