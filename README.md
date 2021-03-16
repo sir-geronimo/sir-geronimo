@@ -1,11 +1,17 @@
-### Hi there 👋, Welcome to my github profile.
+[![Enger's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJGamer21&theme=tokyonight&count_private=true&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
-![ASCII Toon Link](https://d.facdn.net/art/thelonelywolf/1488278723/1342350392.thelonelywolf_ascii-link_artwork_2__the_minish_cap_.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJGamer21&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**credits:** thelonelywolf
+I'm currently learning and interested in:
+ * Rust
+ * Go
+ * Flutter
+ * Kotlin
+ * Deep and advanced .NET/C#
 
-<!--
-**EJGamer21/EJGamer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ask me about Vuejs or .NET Core, or anything you would like to talk. :^)
+
+<!-- **EJGamer21/EJGamer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
