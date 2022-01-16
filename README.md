@@ -1,6 +1,6 @@
-[![Enger's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJGamer21&theme=tokyonight&count_private=true&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
+[![Enger's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-geronimo&theme=tokyonight&count_private=true&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJGamer21&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-geronimo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently learning and interested in:
  * Rust
