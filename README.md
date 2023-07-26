@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">Hi there!, I'm Enger Jimenez. 🔥</h1>
+  <h1 align="center">Hi there!, I'm Enger Jiménez. 🔥</h1>
 </p>
 
 
@@ -16,15 +16,15 @@
 </p>
 <br />
 
-<p align="center">Full stack developer with love for creativity. Self proclaimed videogame developer apprentice. 🥸🧑‍💻</p>
+<p align="center">Full stack engineer with love for creativity. Self proclaimed videogame developer apprentice. 🥸🧑‍💻</p>
 
 <strong>
-<p>
-  I am guided by my own skills and capabilities to find the solutions of the problems that appears. 
-  I usually like to solve <a href="https://github.com/sir-geronimo/fizzbuzz">challenges</a> and find new ways to solve them. 
-  Always wanting to learn something new every day, and always disposed to help others.
-</p>
-<p>Constantly, I'm trying out new stuffs, languages and frameworks. Just for fun.</p>
+  <p>
+    I am guided by my own skills and capabilities to find the solutions of the problems that appears. 
+    I usually like to solve <a href="https://github.com/sir-geronimo/fizzbuzz">challenges</a> and find new ways to solve them. 
+    Always wanting to learn something new every day, and always disposed to help others.
+  </p>
+  <p>Constantly, I'm trying out new stuffs, languages and frameworks. Just for fun.</p>
 </strong>
 <br />
 
@@ -40,11 +40,13 @@
 </div>
 <br />
 
-<p>I'm currently learning and interested in:</p>
+<p>I'm currently learning (keep on learning) and interested in:</p>
 
 <ul>
+  <li>TypeScript</li>
+  <li>C#</li>
   <li>Rust</li>
   <li>Go (lang)</li>
   <li>Kotlin</li>
-  <li>Flutter</li>
+  <li>Leading effectively</li>
 </ul>
