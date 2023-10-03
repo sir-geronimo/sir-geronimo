@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/engerjimenez" target="_blank">
+  <a href="https://linkedin.com/in/enger-jimenez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://twitter.com/pepe_agallas" target="_blank">
