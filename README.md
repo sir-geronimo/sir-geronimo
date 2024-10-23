@@ -1,52 +1,49 @@
-<p>
-  <h1 align="center">Hi there!, I'm Enger Jiménez. 🔥</h1>
-</p>
+# Hey there! I'm Enger 👋
 
+I'm a Software Engineer with a passion for clean code, innovative projects, and empowering others through tech. With over 6 years in the industry, I specialize in building scalable web applications and services that solve real-world problems. I'm also interested in diving into game development, having created a couple of short demos to showcase my skills.
 
-<p align="center">
-  <a href="https://linkedin.com/in/enger-jimenez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/pepe_agallas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://dev.to/sir_geronimo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" />
-  </a>&nbsp;
-</p>
-<br />
+## 🎮 What I'm Up To
+From coding game logic in **Godot** to handling complex web backends with **Golang**, I love exploring different corners of the development world:
 
-<p align="center">Full stack engineer with love for creativity. Self proclaimed videogame developer apprentice. 🥸🧑‍💻</p>
+### Featured Projects:
+- **Red Baron** - A retro-inspired aerial combat game made with Godot. Take to the skies and dive into thrilling dogfights! [Explore the Project 🚁](https://github.com/sir-geronimo/red-baron)
+- **Arithmetic Calculator** - A user-friendly online calculator with a Golang backend and a Vue.js frontend, all hosted on AWS for reliability. [Try It Out 🧮](https://github.com/sir-geronimo/arithmetic-calculator)
+- **Shading** - A fun and educational project focused on experimenting with graphics and shading techniques. [Check It Out 🎨](https://github.com/sir-geronimo/shading)
+- **Godot 2D Demo** - An action RPG demo created in Godot, showcasing mechanics and visuals perfect for indie game enthusiasts. [View the Demo 🎮](https://github.com/sir-geronimo/godot_action_rpg)
 
-<strong>
-  <p>
-    I am guided by my own skills and capabilities to find the solutions of the problems that appears. 
-    I usually like to solve <a href="https://github.com/sir-geronimo/fizzbuzz">challenges</a> and find new ways to solve them. 
-    Always wanting to learn something new every day, and always disposed to help others.
-  </p>
-  <p>Constantly, I'm trying out new stuffs, languages and frameworks. Just for fun.</p>
-</strong>
-<br />
+## 🛠️ Tech Toolbox
+I’m comfortable working with a wide range of tools and technologies:
+- **Programming Languages**: JavaScript/TypeScript, PHP, Go, .NET/C#
+- **Frameworks & Libraries**: Node.js, Nest.js, Symfony/Laravel, Chi, React.js/Vue.js
+- **Databases**: PostgreSQL, MySQL, DynamoDB
+- **DevOps**: Docker, AWS, GCP, CI/CD
+- **Testing**: Jest/Vitest, PHPUnit, Unit Testing, Integration Testing
 
-<p align="center">
-  I love sharing my knowlegde and helping others, so if you want to say hi or ask about anything you would like to talk. :^)
-</p>
+## 💼 Professional Highlights
+- Led and developed a comprehensive **e-commerce platform**, offering a seamless shopping experience.
+- Created a **cloud-based platform** with powerful tools and analytics, enhancing data accessibility and usability.
+- Developed an ERP system specializing in **human resources and inventory management**.
 
-<h2 align="center">Languages, tools & engines. 💻</h2>
+## 🎯 My Goals
+- Keep contributing to open-source projects.
+- Continue improving performance and reliability in backend services.
+- Mentor and support fellow developers on their coding journey.
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-geronimo&theme=tokyonight&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-geronimo&theme=tokyonight&layout=compact&exclude_repo=sistema-inventario&langs_count=8">
-</div>
-<br />
+## 🌱 What I'm Working On
+- **Go Projects**: Focusing on building scalable applications with Go, using the standard library, uber-fx and background jobs.
+- **Testing**: Creating reliable unit and integration tests for Go and Node.js projects.
+- **SQL Databases**: Optimizing queries and improving database performance.
 
-<p>I'm currently learning (keep on learning) and interested in:</p>
+## 🌟 What I Care About
+- Clean, maintainable code with a focus on readability and performance.
+- Helping fellow developers through mentoring and code reviews.
+- Leveraging open-source tools to solve complex problems efficiently.
 
-<ul>
-  <li>TypeScript</li>
-  <li>C#</li>
-  <li>Rust</li>
-  <li>Go (lang)</li>
-  <li>Kotlin</li>
-  <li>Leading effectively</li>
-</ul>
+## 🌍 Let's Connect!
+I'm always open to collaborations, discussions, or just geeking out about tech. Feel free to reach out:
+
+- [GitHub](https://github.com/sir-geronimo)
+- [LinkedIn](https://www.linkedin.com/in/enger-jimenez)
+- [Twitter/𝕏](https://twitter.com/pepe_agallas)
+
+Feel free to explore my projects and get in touch if you have questions or just want to chat about tech!
