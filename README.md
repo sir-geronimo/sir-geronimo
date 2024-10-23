@@ -1,6 +1,6 @@
 # Hey there! I'm Enger 👋
 
-I'm a Software Engineer with a passion for clean code, innovative projects, and empowering others through tech. With over 6 years in the industry, I specialize in building scalable web applications and services that solve real-world problems. I'm also interested in diving into game development, having created a couple of short demos to showcase my skills.
+I'm a Software Engineer with a passion for clean code, innovative projects, and empowering others through tech. With over 7 years in the industry, I specialize in building scalable web applications and services that solve real-world problems. I'm also interested in diving into game development, having created a couple of short demos to showcase my skills.
 
 ## 🎮 What I'm Up To
 From coding game logic in **Godot** to handling complex web backends with **Golang**, I love exploring different corners of the development world:
