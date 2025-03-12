@@ -13,10 +13,10 @@ From coding game logic in **Godot** to handling complex web backends with **Gola
 
 ## 🛠️ Tech Toolbox
 I’m comfortable working with a wide range of tools and technologies:
-- **Programming Languages**: JavaScript/TypeScript, PHP, Go, .NET/C#
+- **Programming Languages**: JavaScript/TypeScript, PHP, Go, Kotlin/Java .NET/C#
 - **Frameworks & Libraries**: Node.js, Nest.js, Symfony/Laravel, Chi, React.js/Vue.js
 - **Databases**: PostgreSQL, MySQL, DynamoDB
-- **DevOps**: Docker, AWS, GCP, CI/CD
+- **DevOps**: Docker, AWS, GCP, CI/CD (GitHub, GitLab)
 - **Testing**: Jest/Vitest, PHPUnit, Unit Testing, Integration Testing
 
 ## 💼 Professional Highlights
